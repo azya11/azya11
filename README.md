@@ -20,3 +20,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=azya11&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Azyadismoral?theme=dark&font=Baloo%202&ext=contest)
+
