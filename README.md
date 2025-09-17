@@ -21,5 +21,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=azya11&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![<Azya11>'s LeetCode Stats](https://leetcode-stats.vercel.app/api?username<Azyadismoral>&theme=<THEME>)](https://github.com/JeremyTsaii/leetcode-stats)
+[![<Azya11>'s LeetCode Stats](https://leetcode-stats.vercel.app/api?usernameAzyadismoral&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
