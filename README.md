@@ -8,6 +8,12 @@
 # 💫 About Me:
 Hey, I’m Aziz 👋<br><br>I’m a software developer who enjoys building things that actually solve problems. Most of my work has been around backend development with C#/.NET, APIs, microservices, and cloud tools — but I also like experimenting with AI, automation, and full-stack projects.<br><br>Currently finishing my CS degree at Arizona State University while working on projects involving React, TypeScript, Python, Docker, Kubernetes, and machine learning.<br><br>A few things I’ve worked on:<br><br>* Payment processing microservices handling real-world traffic<br>* AI/AR capstone project where I led the development team<br>* Chrome extension for students to sync and share Canvas assignments<br>* ML models using PyTorch and data analysis pipelines<br><br>I like clean architecture, good team workflows, and turning chaotic ideas into working products.<br><br>Outside of coding, I’m usually participating in hackathons, learning new tech, or helping organize student communities.<br><br>Fun Facts<br><br>* Amazon Hackathon Finalist ×2<br>* Claude Hackathon Winner<br>* Big fan of building side projects at 2am<br><br>Always open to collaborating on interesting projects.<br>
 
+### ♟️ Currently Playing
+<div align="center">
+
+<img src="assets/board.gif" alt="Chess game" width="420" />
+
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d13moral) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aziz-shamuratov-236575259/) 
@@ -19,21 +25,12 @@ Hey, I’m Aziz 👋<br><br>I’m a software developer who enjoys building thing
 ![](https://streak-stats.demolab.com/?user=azya11&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=azya11&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=azya11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=azya11&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### ♟️ Currently Playing
-<div align="center">
 
-<img src="assets/board.gif" alt="Chess game" width="420" />
-
-</div>
 
 ### 🐍 Watch My Contributions Get Eaten
 <div align="center">
