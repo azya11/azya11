@@ -32,13 +32,6 @@ Hey, I’m Aziz 👋<br><br>I’m a software developer who enjoys building thing
 
 
 
-### 🐍 Watch My Contributions Get Eaten
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/azya11/azya11/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
 ---
 [![](https://komarev.com/ghpvc/?username=azya11&icon=0&color=0)](https://visitcount.itsvg.in)
 
