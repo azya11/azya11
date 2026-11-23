@@ -2,7 +2,7 @@
 
 # Aziz Shamuratov
 
-**Software engineer building useful tools across backend, full-stack, and AI.**
+**Software engineer · Backend, full-stack & AI**
 
 [LinkedIn](https://www.linkedin.com/in/azizshamuratovv/)
 
@@ -10,12 +10,12 @@
 
 ---
 
-I enjoy turning messy problems into software people can actually use. My work spans APIs and cloud systems, interactive web apps, and practical AI experiments.
+I build practical software, from reliable APIs to interfaces people enjoy using. I like working across the stack and exploring where AI can make a real difference.
 
-### Featured project
+### What I'm building
 
-**[Boxcores](https://boxcores.com)** A social diary for football: browse fixtures and live scores, log and rate matches, write reviews, follow teams and competitions, connect with friends, and share lists, hot takes, and league-table predictions.
+**[Boxcores](https://boxcores.com)** — A social diary for football fans. Follow fixtures and live scores, review matches, and share predictions with friends.
 
-### Tools I reach for
+### Core tools
 
 `C#` · `Go` · `Python` · `TypeScript` · `React` · `PostgreSQL` · `AWS`
